@@ -1,13 +1,5 @@
 [
     {
-    "id": 0,
-    "companyLogo": "companyLogo",
-    "conferenceName": "conferenceName ",
-    "conferenceLocation": "conferenceLocation",
-    "startDate": "startDate",
-    "jumpLink": "jumpLink"
-    },
-    {
     "id": 1,
     "companyLogo": "https://drive.google.com/file/d/1jaefiAProWV-MrmhigagsnuXN8JhXYpJ/view?usp=share_link",
     "conferenceName": "National Conference on Advanced Computer Science and Information Technology (NCACSI-2023)",
