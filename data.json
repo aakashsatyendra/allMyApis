@@ -1,7 +1,7 @@
 [
     {
     "id": 1,
-    "companyLogo": "https://drive.google.com/file/d/1jaefiAProWV-MrmhigagsnuXN8JhXYpJ/view?usp=share_link",
+    "companyLogo": "/images/image1.png",
     "conferenceName": "National Conference on Advanced Computer Science and Information Technology (NCACSI-2023)",
     "conferenceLocation": "Bangalore, India",
     "startDate": "6th May, 2023",
@@ -9,7 +9,7 @@
     },
     {
     "id": 2,
-    "companyLogo": "https://drive.google.com/file/d/1jaefiAProWV-MrmhigagsnuXN8JhXYpJ/view?usp=share_link",
+    "companyLogo": "/images/image2.png",
     "conferenceName": "National Conference on Advanced Computer Science and Information Technology (NCACSI-2023)",
     "conferenceLocation": "Coimbatore, India",
     "startDate": "6th May, 2023",
@@ -17,7 +17,7 @@
     },
     {
     "id": 3,
-    "companyLogo": "https://drive.google.com/file/d/1jaefiAProWV-MrmhigagsnuXN8JhXYpJ/view?usp=share_link",
+    "companyLogo": "/images/image3.png",
     "conferenceName": "National Conference on Advanced Computer Science and Information Technology (NCACSI-2023)",
     "conferenceLocation": "Mumbai, India",
     "startDate": "6th May, 2023",
@@ -25,7 +25,7 @@
     },
     {
     "id": 4,
-    "companyLogo": "https://drive.google.com/file/d/1jaefiAProWV-MrmhigagsnuXN8JhXYpJ/view?usp=share_link",
+    "companyLogo": "/images/image4.png",
     "conferenceName": "National Conference on Advanced Computer Science and Information Technology (NCACSI-2023)",
     "conferenceLocation": "Pune, India",
     "startDate": "6th May, 2023",
@@ -33,7 +33,7 @@
     },
     {
     "id": 5,
-    "companyLogo": "https://drive.google.com/file/d/1jaefiAProWV-MrmhigagsnuXN8JhXYpJ/view?usp=share_link",
+    "companyLogo": "/images/image5.png",
     "conferenceName": "National Conference on Advanced Computer Science and Information Technology (NCACSI-2023)",
     "conferenceLocation": "Trivandrum, India",
     "startDate": "6th May, 2023",
