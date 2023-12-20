@@ -1,4 +1,5 @@
-[
+{
+"conferences" : [
     {
     "id": 1,
     "companyLogo": "https://i.postimg.cc/VN00Y8sn/2.png",
@@ -2400,3 +2401,4 @@
     "jumpLink": "https://www.nationalconference.in/event/index.php?id=2076251"
     }
 ]
+}
